@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theblock-dev - SAP Technical Architect with 18+ years of development experience in SAP. Currently exploring & knowing more about Defi Development
+- 👋 Hi, I’m @theblock-dev - SAP Technical Architect with 18+ years of development experience in SAP. Currently exploring & learning more about Defi/dApp Development
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning => { Solidity, react, developing dApps on Ethereum Blockchain, Defi } 
 - 💞️ I’m looking to collaborate on ... { Defi and Blockchain Projects}
