@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning => { Solidity, react, developing dApps on Ethereum Blockchain, Defi } 
 - 💞️ I’m looking to collaborate on ... { Defi and Blockchain Projects}
-- 📫 How to reach me ...
+- 📫 How to reach me ... mailsandip@gmail.com
 
 <!---
 theblock-dev/theblock-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
