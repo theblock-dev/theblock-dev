@@ -3,7 +3,7 @@ await Promise.all([
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning => { Solidity, react, Web3, Truffle, Node JS - developing dApps & DeFi Apps on Ethereum Blockchain} 
 - 💞️ I’m looking to collaborate on ... { Defi and Blockchain Projects}
-- 📫 How to reach me ... {mailsandip@gmail.com}
+- 📫 How to reach me ... {mailsandip@gmail.com} \n
 ]);
 <!---
 theblock-dev/theblock-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
