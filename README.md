@@ -1,6 +1,6 @@
 await Promise.all([
 - 👋 Hi, I’m @theblock-dev - {SAP Technical Architect with 18+ years of development experience in SAP. I got involved with Crypto in 2018 and started exploring & learning Blockchain Technologies around 1 years back.   
-- 🌱 I’m currently expertising my skills in => { Solidity, React js, Web3 js, Truffle, Node JS, OpenZeppelin Contracts - developing dApps & DeFi Apps
+- 🌱 I’m currently expertising my skills in => { Solidity, React js, Web3 js, Truffle, Node JS, OpenZeppelin Contracts - developing dApps & DeFi, NFT Apps
 - 💞️ I’m looking to collaborate on ... { Defi and Blockchain Projects}
 - 📫 How to reach me ... {mailsandipATgmailDOTcom}
 - 
